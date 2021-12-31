@@ -21,7 +21,8 @@ public class moodanalyser {
 	}
 
 	/*
-	 * UC1 and UC2 Refactor the code to take the mood message in Constructor
+	 * UC1 and UC2 
+	 * Refactor the code to take the mood message in Constructor
 	 */
 	public String analysemood() {
 		if (message.contains("Sad"))
